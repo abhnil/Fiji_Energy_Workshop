@@ -11,7 +11,7 @@ The notebooks cover:
 
 # Testing the code
 You can run the code in these notebooks on your own machine without downloading any of the requirements using binder. Note - the code will be much slower on binder than on your own machine. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhnil/MD_Workshop/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhnil/Fiji_Energy_Workshop/main)
 
 
 
